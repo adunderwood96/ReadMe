@@ -1,5 +1,6 @@
 # ReadMe-Generator
-      ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
     ## Table of Contents
     * [Demo](#Demo)
     * [Description](#Description)
@@ -9,30 +10,31 @@
     * [Test](#Tests)
     * [License](#License)
     * [Questions](#Questions)
-    
 
-    ## Demo 
 
-    
-    ## Description
-    A professional README.md file generator that is easy to use and takes user's response from a template of questions to create a ReadMe.
+## Demo
 
-    ## Install
-    npm i
 
-    ## Usage
-    Use "Enter" Key to submit response, and arrow keys to select license. Once the ReadMe is successfully generated the user will receive a confirmation message.
+## Description
+A professional README.md file generator that is easy to use and takes user's response from a template of questions to create a ReadMe.
 
-    ## Contributions
-    Contact Me!
+## Install
+npm i
 
-    ## Test
-    node index.js
+## Usage
+Use "Enter" Key to submit response, and arrow keys to select license. Once the ReadMe is successfully generated the user will receive a confirmation message.
 
-    ## License
-    ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+## Contributions
+Contact Me!
 
-    ## Questions
-  If there are any further questions please feel free to contact me:
-  Github: https://github/adunderwood96
-  Email: adunderwood96@gmail.com
+## Test
+node index.js
+
+## License
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+ ## Questions
+
+If there are any further questions please feel free to contact me:
+Github: https://github/adunderwood96
+Email: adunderwood96@gmail.com
